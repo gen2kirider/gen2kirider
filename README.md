@@ -9,13 +9,18 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,nextjs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=laravel,swift,react,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>
+**Game Dev**
 
-> Phaser3 / Aseprite 
+![Game Stack](https://img.shields.io/badge/Phaser3-2C2D72?style=flat-square&logo=phaser&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logoColor=white)
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,swift,react,nextjs,laravel,tailwind&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 ## 📦 Projects
 

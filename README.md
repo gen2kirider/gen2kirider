@@ -31,8 +31,12 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gen2kirider&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gen2kirider&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gen2kirider&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gen2kirider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=gen2kirider&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔗 Links

@@ -9,11 +9,13 @@
 
 ## 🛠 Tech Stack
 
-![Phaser](https://img.shields.io/badge/Phaser3-8B0000?style=for-the-badge&logo=phaser&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nextjs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,swift,react,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+</p>
+
+> Phaser3 / Aseprite はゲーム開発のメイン環境
 
 ## 📦 Projects
 
@@ -31,6 +33,5 @@
 ## 🔗 Links
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gen2kirider)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gen2kirider)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7C3AED,100:1a1b27&height=120&section=footer)

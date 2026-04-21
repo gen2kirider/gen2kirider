@@ -4,8 +4,8 @@
 
 ## 🎮 About
 
-ブラウザゲームを個人で作っています。  
-ドット絵とコードを組み合わせた 2D ゲームが得意です。
+ゲームを個人で作っています。  
+ドット絵で作られた 2D ゲームが好きです。
 
 ## 🛠 Tech Stack
 
@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 </p>
 
-> Phaser3 / Aseprite はゲーム開発のメイン環境
+> Phaser3 / Aseprite 
 
 ## 📦 Projects
 

@@ -30,10 +30,11 @@
 
 ## 📊 Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gen2kirider&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gen2kirider&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+| GitHub Stats | Most Used Languages |
+|---|---|
+| <img src="https://github-readme-stats.vercel.app/api?username=gen2kirider&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gen2kirider&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" /> |
 
-<img height="170" src="https://streak-stats.demolab.com?user=gen2kirider&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com?user=gen2kirider&theme=tokyonight&hide_border=false" />
 
 ## 🔗 Links
 
